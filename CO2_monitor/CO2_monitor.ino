@@ -73,7 +73,7 @@ void setup() {
   Serial.begin(9600);
 
   display.begin();           // initializes the display
-  display.setBacklight(50);  // set the brightness in percent (ie: 100 => 100 %)
+  display.setBacklight(25);  // set the brightness in percent (ie: 100 => 100 %)
   delay(100);
 
   display.clear();
