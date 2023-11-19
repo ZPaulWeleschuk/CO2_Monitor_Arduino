@@ -1,4 +1,3 @@
-# CO2 Monitor Arduino
 This project displays the current CO2 levels (ppm) and is made with only minimal components.
 
 This code is based off the complex LibreCO2 project by Daniel Bernalb (<a href="https://github.com/danielbernalb/LibreCO2">LibreCO2</a>).
@@ -9,6 +8,7 @@ Fresh air contains CO2 levels slightly above 400 ppm. Indoor air quality is deem
   
 What is concerning is the decreased in mental performance, decision making, tiredness, and difficulty concentrating when exposed to high levels of CO2. Particularly for those who work from home or in a crowded office or classroom.  
   
+![CO2 Monitor Project](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/CO2_Monitor_Stand_cropped.jpg)
 
 **This project uses:**
 - Arduino Nano  
@@ -19,7 +19,9 @@ What is concerning is the decreased in mental performance, decision making, tire
 - 50mm x 70mm prototype board
 
   
+![CO2 Monitor](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/CO2_Monitor_cropped.jpg)
 
+![Wiring Diagram](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/wiringDiagram_CO2_monitor.png)
   
 
 The CO2 sensor may or may not need to be calibrated. Run the project outside for several minutes in a place protected from the wind. Press and hold the button down till ‘CAL’ appears on the display. The sensor will then begin a count down, where it will calibrate the outside air to 400 ppm.
