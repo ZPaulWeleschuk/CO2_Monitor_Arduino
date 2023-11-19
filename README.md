@@ -8,7 +8,7 @@ Fresh air contains CO2 levels slightly above 400 ppm. Indoor air quality is deem
   
 What is concerning is the decreased in mental performance, decision making, tiredness, and difficulty concentrating when exposed to high levels of CO2. Particularly for those who work from home or in a crowded office or classroom.  
   
-![CO2 Monitor Project](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/CO2_Monitor_Stand_cropped.jpg)
+![CO2 Monitor Project](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/CO2_Monitor_Stand_cropped_446.jpg)
 
 **This project uses:**
 - Arduino Nano  
@@ -19,7 +19,7 @@ What is concerning is the decreased in mental performance, decision making, tire
 - 50mm x 70mm prototype board
 
   
-![CO2 Monitor](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/CO2_Monitor_cropped.jpg)
+![CO2 Monitor](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/CO2_Monitor_cropped_446.jpg)
 
 ![Wiring Diagram](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/wiringDiagram_CO2_monitor.png)
   
