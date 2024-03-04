@@ -1,12 +1,12 @@
-This project displays the current CO2 levels (ppm) and is made with only minimal components.
+This project displays the current CO2 concentration (ppm) and is made with minimal components.
 
-This code is based off the complex LibreCO2 project by Daniel Bernalb (<a href="https://github.com/danielbernalb/LibreCO2">LibreCO2</a>).
+This code is based off the LibreCO2 project by Daniel Bernalb (<a href="https://github.com/danielbernalb/LibreCO2">LibreCO2</a>).
 
   
 
-Fresh air contains CO2 levels slightly above 400 ppm. Indoor air quality is deemed acceptable if 1000 ppm or lower. Long term (>24 hours) of exposure to CO2 levels over 1000 ppm can result in respiratory symptoms (runny or congested nose, sore or dry throat, sneezing, coughing), decreased test performance (decision making, task performance), neurophysiological symptoms (headache, tiredness, fatigue, difficulty concentrating) <sup>[1]</sup>.  
+Fresh air contains CO2 concentrations slightly above 400 ppm. Indoor air quality is deemed acceptable if 1000 ppm or lower. Long term (>24 hours) of exposure to CO2 levels over 1000 ppm can result in respiratory symptoms (runny or congested nose, sore or dry throat, sneezing, coughing), decreased test performance (decision making, task performance), neurophysiological symptoms (headache, tiredness, fatigue, difficulty concentrating) <sup>[1]</sup>.  
   
-What is concerning is the decreased in mental performance, decision making, tiredness, and difficulty concentrating when exposed to high levels of CO2. Particularly for those who work from home or in a crowded office or classroom.  
+What is concerning is the decrease in mental performance, decision making, tiredness, and difficulty concentrating when exposed to high levels of CO2. Particularly for those who work from home or in a crowded office or classroom.  
   
 ![CO2 Monitor Project](https://github.com/ZPaulWeleschuk/CO2_Monitor_Arduino/blob/main/img/CO2_Monitor_Stand_cropped_446.jpg)
 
